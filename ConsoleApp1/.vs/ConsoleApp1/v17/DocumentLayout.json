@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\tmp\\legado\\ConsoleApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\tmp\\legado\\consoleapp1\\consoleapp1\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\switch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\tmp\\legado\\consoleapp1\\consoleapp1\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\lamp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\tmp\\legado\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\tmp\\legado\\consoleapp1\\consoleapp1\\idevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\idevices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|c:\\tmp\\legado\\consoleapp1\\consoleapp1\\stateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14419C5-2F68-4204-B845-39DE160B91F9}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\stateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Switch.cs",
+              "DocumentMoniker": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\Switch.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Switch.cs",
+              "ToolTip": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\Switch.cs",
+              "RelativeToolTip": "ConsoleApp1\\Switch.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:42:08.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lamp.cs",
+              "DocumentMoniker": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\Lamp.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Lamp.cs",
+              "ToolTip": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\Lamp.cs",
+              "RelativeToolTip": "ConsoleApp1\\Lamp.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:37:56.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDevices.cs",
+              "DocumentMoniker": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\IDevices.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\IDevices.cs",
+              "ToolTip": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\IDevices.cs",
+              "RelativeToolTip": "ConsoleApp1\\IDevices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:36:02.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateEnum.cs",
+              "DocumentMoniker": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\StateEnum.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\StateEnum.cs",
+              "ToolTip": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\StateEnum.cs",
+              "RelativeToolTip": "ConsoleApp1\\StateEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T23:32:09.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\tmp\\legado\\ConsoleApp1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA8wBsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T23:27:27.579Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

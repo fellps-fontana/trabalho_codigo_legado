@@ -1,27 +1,8 @@
-﻿// Exemplo - DIP (Legado)
+﻿using ConsoleApp1;
 
-enum State { On, Off }
+IDevices lamp = new Lamp();
+Switch lampSwitch = new Switch(lamp);
 
-class Lamp(State State)
-{
-    public void Operate()
-    {
-        State = State == State.On ? State.Off : State.On;
-        Console.WriteLine("Luz " + (State == State.On ? "Ligada" : "Desligada"));
-    }
-}
 
-class Switch
-{
-    private Lamp lamp;
-
-    public Switch(Lamp device)
-    {
-        this.lamp = device;
-    }
-
-    public void Press()
-    {
-        lamp.Operate();
-    }
-}
+lampSwitch.Press(); 
+lampSwitch.Press(); 
